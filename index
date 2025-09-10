@@ -1,0 +1,21 @@
+ <!DOCTYPE html>  
+
+<html> 
+<style>
+    body {
+      background-color: #DEC48C; /* Color de fondo */
+      color: #46591C; /* Color del texto */
+      font-family: Libre Baskervalle, sans-serif;
+    }
+</style>
+<head>   
+    <title>Encuesta</title>
+</head>
+
+<body> 
+    <h1>Encuesta con survey monkey </h1>
+    <p><iframe src="https://es.surveymonkey.com/r/NYHGB3F" width="600" height="400" title="Sitioembebido"></iframe>
+ </p>
+</body>
+
+</html>
